@@ -1,0 +1,17 @@
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\bin\Debug\net6.0-windows\BelejkiProject.exe
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\bin\Debug\net6.0-windows\BelejkiProject.deps.json
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\bin\Debug\net6.0-windows\BelejkiProject.runtimeconfig.json
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\bin\Debug\net6.0-windows\BelejkiProject.dll
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\bin\Debug\net6.0-windows\BelejkiProject.pdb
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.csproj.AssemblyReference.cache
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.Form1.resources
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.csproj.GenerateResource.cache
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.AssemblyInfoInputs.cache
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.AssemblyInfo.cs
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.csproj.CoreCompileInputs.cache
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.dll
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\refint\BelejkiProject.dll
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.pdb
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\BelejkiProject.genruntimeconfig.cache
+C:\Users\zagex\source\repos\BelejkiProject\BelejkiProject\obj\Debug\net6.0-windows\ref\BelejkiProject.dll
